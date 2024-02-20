@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on Eclipse
 - 📫 How to reach me 5v.vgasil.todorov@gmail.com
-- 😄 Pronouns: I am 
+- 😄 Pronouns: I am young
 - ⚡ Fun fact: I am young.
 
 <!---
